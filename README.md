@@ -88,7 +88,7 @@ This project uses `MongoDB` as database and `NodeJS` , install them in your loca
 Clone the project
 
 ```bash
-  git clone https://github.com/yahya-saad/SarahaApp-Backend.git
+  git clone https://github.com/musman-f82/Saraha-App.git
 ```
 
 Go to the project directory
@@ -117,4 +117,4 @@ node .
 
 Setup completed , test endpoints using postman collection in repository and for more inf about API just read [documentation](#notebook_with_decorative_cover-documentation). 😁
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yahya-saad-a98801187)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]
